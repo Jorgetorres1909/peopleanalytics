@@ -13,7 +13,7 @@ dashboard ejecutivo interactivo construido en Power BI.
 
 ## Dashboard
 
-![People Analytics Dashboard](dashboard.png)
+![People Analytics Dashboard](dashboard_peopleanalytics.png)
 
 El dashboard consolida los principales KPIs de RRHH en una única página ejecutiva 
 con 2 filtros interactivos (Departamento, Género) que actúan sobre todos los 
