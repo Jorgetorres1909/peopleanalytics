@@ -1,5 +1,3 @@
-# peopleanalytics
-Proyecto People Analytics 
 # people_analytics
 Análisis de plantilla con SQL avanzado + Dashboard Power BI
 
